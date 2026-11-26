@@ -1,0 +1,801 @@
+Ticket_ID,Date_Received,Channel,Topic,Resolution_Time_Hours,Fee_Waived,Customer_Satisfaction_Score
+TKT-5000,2026-03-17 11:00,Email,Late Fee Dispute,28.6,No,
+TKT-5001,2026-02-21 08:00,Phone,Class Registration,2.6,N/A,3
+TKT-5002,2026-05-12 14:00,Instagram DM,Rental Availability,5.7,N/A,5
+TKT-5003,2026-05-02 12:00,Web Form,Repair Status,1.9,N/A,
+TKT-5004,2026-06-15 11:00,Email,Class Registration,33.8,N/A,
+TKT-5005,2026-01-13 18:00,Email,Class Registration,25.6,N/A,1
+TKT-5006,2026-04-05 14:00,Email,Repair Status,37.5,N/A,4
+TKT-5007,2026-04-09 13:00,Instagram DM,Rental Availability,23.0,N/A,4
+TKT-5008,2026-06-27 15:00,Instagram DM,Rental Availability,7.1,N/A,5
+TKT-5009,2026-03-10 09:00,Email,Rental Availability,30.0,N/A,1
+TKT-5010,2026-04-21 17:00,Phone,Rental Availability,1.7,N/A,2
+TKT-5011,2026-05-20 12:00,Email,Late Fee Dispute,25.6,No,1
+TKT-5012,2026-03-25 18:00,Email,Class Registration,27.2,N/A,
+TKT-5013,2026-04-25 17:00,Email,Rental Availability,34.7,N/A,2
+TKT-5014,2026-06-26 15:00,Instagram DM,Rental Availability,25.0,N/A,1
+TKT-5015,2026-04-01 17:00,Web Form,Gear Recommendation,3.1,N/A,3
+TKT-5016,2026-06-13 08:00,Web Form,Rental Availability,1.5,N/A,
+TKT-5017,2026-06-13 14:00,Phone,Class Registration,3.4,N/A,2
+TKT-5018,2026-01-08 10:00,Instagram DM,Repair Status,18.7,N/A,4
+TKT-5019,2026-01-09 10:00,Phone,Class Registration,3.5,N/A,
+TKT-5020,2026-06-15 13:00,Email,Rental Availability,7.9,N/A,5
+TKT-5021,2026-01-09 17:00,Email,Rental Availability,13.0,N/A,
+TKT-5022,2026-04-26 13:00,Email,Rental Availability,23.6,N/A,1
+TKT-5023,2026-05-27 10:00,Email,Class Registration,26.8,N/A,4
+TKT-5024,2026-03-22 18:00,Email,Repair Status,35.8,N/A,
+TKT-5025,2026-01-30 08:00,Web Form,Late Fee Dispute,1.8,No,4
+TKT-5026,2026-05-13 14:00,Email,Repair Status,38.0,N/A,1
+TKT-5027,2026-03-09 12:00,Phone,Rental Availability,3.6,N/A,2
+TKT-5028,2026-06-06 12:00,Email,Rental Availability,30.7,N/A,4
+TKT-5029,2026-02-21 09:00,Email,Rental Availability,16.5,N/A,
+TKT-5030,2026-01-19 15:00,Web Form,Gear Recommendation,1.6,N/A,
+TKT-5031,2026-04-24 09:00,Instagram DM,Class Registration,9.9,N/A,3
+TKT-5032,2026-06-20 13:00,Email,Gear Recommendation,15.5,N/A,5
+TKT-5033,2026-05-19 12:00,Phone,Class Registration,1.3,N/A,2
+TKT-5034,2026-06-29 18:00,Phone,Rental Availability,1.6,N/A,
+TKT-5035,2026-04-03 16:00,Email,Gear Recommendation,31.0,N/A,
+TKT-5036,2026-02-21 10:00,Web Form,Gear Recommendation,2.5,N/A,
+TKT-5037,2026-05-07 08:00,Phone,Rental Availability,3.1,N/A,5
+TKT-5038,2026-04-05 15:00,Phone,Rental Availability,2.9,N/A,5
+TKT-5039,2026-02-03 17:00,Phone,Rental Availability,1.0,N/A,1
+TKT-5040,2026-03-21 14:00,Email,Class Registration,0.5,N/A,4
+TKT-5041,2026-05-15 14:00,Phone,Gear Recommendation,1.1,N/A,5
+TKT-5042,2026-01-19 10:00,Email,Class Registration,4.3,N/A,1
+TKT-5043,2026-04-26 15:00,Instagram DM,Gear Recommendation,29.6,N/A,3
+TKT-5044,2026-02-02 16:00,Phone,Gear Recommendation,2.4,N/A,2
+TKT-5045,2026-02-03 14:00,Instagram DM,Class Registration,32.6,N/A,1
+TKT-5046,2026-02-01 16:00,Phone,Class Registration,1.4,N/A,
+TKT-5047,2026-02-12 10:00,Instagram DM,Gear Recommendation,29.8,N/A,2
+TKT-5048,2026-03-30 16:00,Email,Gear Recommendation,19.6,N/A,1
+TKT-5049,2026-03-06 11:00,Instagram DM,Rental Availability,14.0,N/A,5
+TKT-5050,2026-03-12 10:00,Instagram DM,Gear Recommendation,21.3,N/A,5
+TKT-5051,2026-05-17 09:00,Email,Class Registration,24.0,N/A,2
+TKT-5052,2026-06-01 17:00,Web Form,Class Registration,2.8,N/A,
+TKT-5053,2026-06-18 17:00,Phone,Gear Recommendation,0.6,N/A,5
+TKT-5054,2026-03-28 17:00,Email,Gear Recommendation,30.5,N/A,
+TKT-5055,2026-01-08 09:00,Email,Class Registration,24.6,N/A,
+TKT-5056,2026-06-14 17:00,Web Form,Rental Availability,2.2,N/A,
+TKT-5057,2026-02-23 17:00,Email,Rental Availability,28.9,N/A,1
+TKT-5058,2026-05-08 18:00,Instagram DM,Rental Availability,2.3,N/A,3
+TKT-5059,2026-05-04 11:00,Phone,Rental Availability,3.0,N/A,4
+TKT-5060,2026-03-18 15:00,Instagram DM,Repair Status,28.4,N/A,
+TKT-5061,2026-01-16 10:00,Email,Rental Availability,17.7,N/A,4
+TKT-5062,2026-04-29 11:00,Email,Late Fee Dispute,32.8,Yes,2
+TKT-5063,2026-03-22 13:00,Email,Repair Status,37.0,N/A,3
+TKT-5064,2026-04-13 10:00,Phone,Late Fee Dispute,2.4,No,5
+TKT-5065,2026-05-24 09:00,Email,Rental Availability,18.0,N/A,4
+TKT-5066,2026-02-01 12:00,Phone,Class Registration,1.8,N/A,2
+TKT-5067,2026-01-25 08:00,Web Form,Late Fee Dispute,0.9,No,
+TKT-5068,2026-04-09 17:00,Email,Rental Availability,23.5,N/A,2
+TKT-5069,2026-03-25 17:00,Instagram DM,Rental Availability,26.9,N/A,2
+TKT-5070,2026-02-10 15:00,Email,Rental Availability,9.0,N/A,4
+TKT-5071,2026-05-08 12:00,Instagram DM,Late Fee Dispute,41.3,No,1
+TKT-5072,2026-04-11 16:00,Email,Gear Recommendation,32.5,N/A,2
+TKT-5073,2026-02-25 17:00,Instagram DM,Gear Recommendation,32.7,N/A,1
+TKT-5074,2026-03-14 15:00,Phone,Rental Availability,3.2,N/A,4
+TKT-5075,2026-03-15 16:00,Phone,Rental Availability,2.5,N/A,
+TKT-5076,2026-01-28 14:00,Email,Class Registration,7.7,N/A,
+TKT-5077,2026-03-09 13:00,Phone,Rental Availability,1.7,N/A,3
+TKT-5078,2026-01-12 14:00,Phone,Rental Availability,1.4,N/A,
+TKT-5079,2026-05-24 11:00,Phone,Rental Availability,3.0,N/A,3
+TKT-5080,2026-01-19 14:00,Email,Rental Availability,53.7,N/A,5
+TKT-5081,2026-03-13 17:00,Email,Class Registration,18.0,N/A,1
+TKT-5082,2026-02-02 09:00,Instagram DM,Gear Recommendation,23.7,N/A,3
+TKT-5083,2026-05-23 13:00,Email,Rental Availability,17.1,N/A,2
+TKT-5084,2026-06-04 16:00,Web Form,Rental Availability,4.4,N/A,1
+TKT-5085,2026-01-12 08:00,Instagram DM,Class Registration,23.7,N/A,
+TKT-5086,2026-03-27 15:00,Email,Rental Availability,13.5,N/A,2
+TKT-5087,2026-06-05 16:00,Email,Rental Availability,24.5,N/A,
+TKT-5088,2026-06-06 13:00,Email,Rental Availability,26.3,N/A,
+TKT-5089,2026-06-07 12:00,Phone,Gear Recommendation,0.9,N/A,5
+TKT-5090,2026-05-11 16:00,Email,Rental Availability,27.3,N/A,5
+TKT-5091,2026-03-18 15:00,Instagram DM,Rental Availability,14.4,N/A,3
+TKT-5092,2026-03-26 18:00,Web Form,Rental Availability,3.8,N/A,
+TKT-5093,2026-04-17 17:00,Instagram DM,Class Registration,28.3,N/A,1
+TKT-5094,2026-06-02 15:00,Instagram DM,Rental Availability,25.4,N/A,
+TKT-5095,2026-06-17 17:00,Instagram DM,Late Fee Dispute,35.4,No,1
+TKT-5096,2026-05-30 15:00,Phone,Class Registration,1.3,N/A,
+TKT-5097,2026-06-11 17:00,Instagram DM,Rental Availability,18.2,N/A,4
+TKT-5098,2026-02-07 18:00,Web Form,Rental Availability,2.5,N/A,
+TKT-5099,2026-05-27 09:00,Phone,Late Fee Dispute,1.4,Yes,
+TKT-5100,2026-04-23 13:00,Instagram DM,Rental Availability,10.5,N/A,4
+TKT-5101,2026-06-26 11:00,Phone,Rental Availability,2.6,N/A,5
+TKT-5102,2026-05-01 08:00,Email,Rental Availability,37.1,N/A,5
+TKT-5103,2026-02-23 16:00,Instagram DM,Class Registration,22.7,N/A,4
+TKT-5104,2026-05-15 14:00,Phone,Rental Availability,0.5,N/A,2
+TKT-5105,2026-04-28 16:00,Instagram DM,Late Fee Dispute,48.0,No,3
+TKT-5106,2026-06-23 18:00,Web Form,Late Fee Dispute,2.7,No,3
+TKT-5107,2026-06-06 15:00,Email,Class Registration,5.1,N/A,
+TKT-5108,2026-03-05 12:00,Phone,Class Registration,2.4,N/A,2
+TKT-5109,2026-03-18 12:00,Web Form,Rental Availability,1.3,N/A,4
+TKT-5110,2026-03-23 15:00,Email,Repair Status,27.9,N/A,3
+TKT-5111,2026-03-15 09:00,Phone,Rental Availability,1.7,N/A,5
+TKT-5112,2026-04-08 14:00,Instagram DM,Late Fee Dispute,0.5,Yes,2
+TKT-5113,2026-03-16 08:00,Email,Rental Availability,26.8,N/A,
+TKT-5114,2026-01-21 13:00,Web Form,Rental Availability,0.7,N/A,3
+TKT-5115,2026-05-03 11:00,Instagram DM,Rental Availability,37.9,N/A,
+TKT-5116,2026-05-18 12:00,Web Form,Late Fee Dispute,2.1,Yes,3
+TKT-5117,2026-02-05 09:00,Instagram DM,Late Fee Dispute,8.6,Yes,5
+TKT-5118,2026-03-03 11:00,Phone,Class Registration,1.7,N/A,
+TKT-5119,2026-05-16 11:00,Email,Class Registration,19.8,N/A,1
+TKT-5120,2026-01-26 14:00,Phone,Late Fee Dispute,2.4,Yes,4
+TKT-5121,2026-01-26 18:00,Instagram DM,Rental Availability,29.2,N/A,1
+TKT-5122,2026-05-21 10:00,Email,Rental Availability,24.6,N/A,4
+TKT-5123,2026-05-03 18:00,Web Form,Rental Availability,1.3,N/A,
+TKT-5124,2026-03-15 13:00,Email,Late Fee Dispute,21.7,Yes,
+TKT-5125,2026-01-16 09:00,Email,Rental Availability,29.4,N/A,2
+TKT-5126,2026-05-17 08:00,Web Form,Repair Status,2.9,N/A,2
+TKT-5127,2026-04-17 10:00,Phone,Late Fee Dispute,2.3,Yes,1
+TKT-5128,2026-04-12 15:00,Phone,Rental Availability,1.1,N/A,
+TKT-5129,2026-03-16 08:00,Phone,Repair Status,2.6,N/A,
+TKT-5130,2026-05-26 17:00,Email,Class Registration,36.9,N/A,
+TKT-5131,2026-03-27 12:00,Email,Class Registration,22.0,N/A,5
+TKT-5132,2026-05-15 15:00,Instagram DM,Repair Status,23.6,N/A,2
+TKT-5133,2026-05-10 15:00,Phone,Gear Recommendation,4.0,N/A,
+TKT-5134,2026-01-29 13:00,Phone,Rental Availability,2.2,N/A,
+TKT-5135,2026-04-28 18:00,Phone,Rental Availability,2.4,N/A,
+TKT-5136,2026-02-17 08:00,Phone,Rental Availability,1.2,N/A,3
+TKT-5137,2026-05-26 18:00,Phone,Repair Status,2.3,N/A,2
+TKT-5138,2026-06-06 18:00,Email,Repair Status,36.1,N/A,4
+TKT-5139,2026-05-12 13:00,Instagram DM,Class Registration,21.0,N/A,
+TKT-5140,2026-06-21 09:00,Instagram DM,Gear Recommendation,3.8,N/A,
+TKT-5141,2026-02-05 15:00,Phone,Gear Recommendation,1.1,N/A,2
+TKT-5142,2026-01-02 12:00,Instagram DM,Gear Recommendation,39.5,N/A,4
+TKT-5143,2026-03-10 13:00,Email,Late Fee Dispute,20.9,Yes,5
+TKT-5144,2026-01-03 12:00,Email,Rental Availability,43.1,N/A,2
+TKT-5145,2026-01-16 18:00,Email,Late Fee Dispute,13.8,Yes,
+TKT-5146,2026-03-20 10:00,Email,Rental Availability,26.0,N/A,5
+TKT-5147,2026-06-30 12:00,Phone,Class Registration,1.3,N/A,3
+TKT-5148,2026-04-05 17:00,Phone,Rental Availability,2.1,N/A,
+TKT-5149,2026-02-04 15:00,Phone,Rental Availability,3.1,N/A,
+TKT-5150,2026-06-05 13:00,Email,Rental Availability,41.3,N/A,5
+TKT-5151,2026-05-01 16:00,Phone,Class Registration,0.5,N/A,2
+TKT-5152,2026-03-05 18:00,Instagram DM,Gear Recommendation,21.0,N/A,1
+TKT-5153,2026-05-15 15:00,Web Form,Rental Availability,2.4,N/A,3
+TKT-5154,2026-01-20 17:00,Web Form,Rental Availability,2.0,N/A,
+TKT-5155,2026-05-21 16:00,Email,Rental Availability,12.6,N/A,
+TKT-5156,2026-05-18 10:00,Email,Gear Recommendation,1.1,N/A,
+TKT-5157,2026-05-14 15:00,Phone,Class Registration,2.4,N/A,
+TKT-5158,2026-02-22 17:00,Email,Late Fee Dispute,22.4,No,5
+TKT-5159,2026-04-25 08:00,Email,Late Fee Dispute,22.1,No,5
+TKT-5160,2026-04-17 15:00,Email,Class Registration,40.8,N/A,5
+TKT-5161,2026-04-29 18:00,Phone,Rental Availability,1.9,N/A,1
+TKT-5162,2026-04-12 12:00,Phone,Repair Status,3.2,N/A,2
+TKT-5163,2026-05-29 09:00,Instagram DM,Rental Availability,28.6,N/A,
+TKT-5164,2026-03-30 09:00,Email,Class Registration,37.8,N/A,1
+TKT-5165,2026-01-18 15:00,Web Form,Rental Availability,1.7,N/A,
+TKT-5166,2026-04-15 10:00,Email,Gear Recommendation,33.6,N/A,4
+TKT-5167,2026-04-06 14:00,Phone,Class Registration,1.4,N/A,4
+TKT-5168,2026-04-07 09:00,Email,Class Registration,50.7,N/A,5
+TKT-5169,2026-02-04 18:00,Email,Class Registration,9.1,N/A,1
+TKT-5170,2026-02-15 16:00,Instagram DM,Rental Availability,38.7,N/A,2
+TKT-5171,2026-02-27 08:00,Phone,Rental Availability,3.6,N/A,3
+TKT-5172,2026-04-29 18:00,Email,Class Registration,27.8,N/A,4
+TKT-5173,2026-05-17 14:00,Email,Class Registration,24.0,N/A,2
+TKT-5174,2026-04-28 13:00,Phone,Late Fee Dispute,3.0,No,
+TKT-5175,2026-02-18 09:00,Email,Rental Availability,37.2,N/A,
+TKT-5176,2026-06-19 14:00,Instagram DM,Class Registration,19.5,N/A,1
+TKT-5177,2026-03-03 11:00,Email,Gear Recommendation,21.6,N/A,
+TKT-5178,2026-06-02 08:00,Email,Rental Availability,16.2,N/A,1
+TKT-5179,2026-03-04 08:00,Email,Late Fee Dispute,9.3,Yes,2
+TKT-5180,2026-05-19 11:00,Instagram DM,Rental Availability,36.4,N/A,1
+TKT-5181,2026-02-05 16:00,Phone,Late Fee Dispute,2.1,Yes,2
+TKT-5182,2026-05-28 13:00,Email,Class Registration,44.1,N/A,3
+TKT-5183,2026-03-02 12:00,Phone,Rental Availability,2.4,N/A,5
+TKT-5184,2026-02-26 14:00,Phone,Repair Status,2.5,N/A,1
+TKT-5185,2026-05-23 17:00,Email,Late Fee Dispute,13.0,Yes,2
+TKT-5186,2026-06-10 18:00,Phone,Gear Recommendation,3.3,N/A,4
+TKT-5187,2026-01-13 13:00,Instagram DM,Repair Status,9.4,N/A,4
+TKT-5188,2026-05-15 13:00,Email,Rental Availability,24.9,N/A,4
+TKT-5189,2026-02-08 12:00,Instagram DM,Late Fee Dispute,33.4,No,5
+TKT-5190,2026-05-02 11:00,Email,Gear Recommendation,25.6,N/A,3
+TKT-5191,2026-02-06 15:00,Instagram DM,Class Registration,22.2,N/A,5
+TKT-5192,2026-04-16 14:00,Email,Rental Availability,14.6,N/A,2
+TKT-5193,2026-04-10 11:00,Email,Repair Status,8.0,N/A,
+TKT-5194,2026-03-26 18:00,Phone,Rental Availability,0.9,N/A,
+TKT-5195,2026-04-26 13:00,Phone,Late Fee Dispute,0.5,No,
+TKT-5196,2026-02-18 08:00,Phone,Repair Status,1.6,N/A,
+TKT-5197,2026-06-22 17:00,Web Form,Rental Availability,2.5,N/A,1
+TKT-5198,2026-02-18 17:00,Instagram DM,Rental Availability,30.8,N/A,5
+TKT-5199,2026-02-25 15:00,Email,Rental Availability,31.2,N/A,
+TKT-5200,2026-03-27 12:00,Phone,Rental Availability,1.0,N/A,1
+TKT-5201,2026-02-24 11:00,Web Form,Class Registration,3.3,N/A,1
+TKT-5202,2026-05-03 11:00,Instagram DM,Rental Availability,53.6,N/A,2
+TKT-5203,2026-04-12 11:00,Instagram DM,Rental Availability,20.4,N/A,3
+TKT-5204,2026-04-08 15:00,Phone,Rental Availability,1.6,N/A,3
+TKT-5205,2026-03-20 12:00,Email,Rental Availability,12.1,N/A,4
+TKT-5206,2026-04-30 09:00,Email,Repair Status,30.1,N/A,4
+TKT-5207,2026-03-23 11:00,Phone,Rental Availability,2.1,N/A,4
+TKT-5208,2026-01-12 17:00,Phone,Late Fee Dispute,2.3,Yes,2
+TKT-5209,2026-01-05 12:00,Phone,Class Registration,1.2,N/A,5
+TKT-5210,2026-05-29 14:00,Email,Rental Availability,21.4,N/A,
+TKT-5211,2026-02-20 13:00,Email,Repair Status,41.9,N/A,
+TKT-5212,2026-05-26 11:00,Email,Class Registration,16.6,N/A,3
+TKT-5213,2026-03-07 15:00,Phone,Rental Availability,1.7,N/A,4
+TKT-5214,2026-04-28 10:00,Phone,Repair Status,2.4,N/A,3
+TKT-5215,2026-02-13 10:00,Email,Class Registration,38.3,N/A,4
+TKT-5216,2026-02-17 16:00,Phone,Late Fee Dispute,0.6,Yes,1
+TKT-5217,2026-05-15 08:00,Phone,Gear Recommendation,1.8,N/A,1
+TKT-5218,2026-06-21 08:00,Instagram DM,Gear Recommendation,23.6,N/A,4
+TKT-5219,2026-02-05 18:00,Phone,Rental Availability,1.8,N/A,
+TKT-5220,2026-02-08 08:00,Email,Gear Recommendation,25.3,N/A,
+TKT-5221,2026-04-27 13:00,Email,Rental Availability,10.6,N/A,
+TKT-5222,2026-06-13 18:00,Email,Repair Status,12.1,N/A,4
+TKT-5223,2026-06-18 15:00,Phone,Late Fee Dispute,2.0,No,
+TKT-5224,2026-05-17 16:00,Email,Late Fee Dispute,18.7,No,1
+TKT-5225,2026-05-16 12:00,Phone,Rental Availability,1.1,N/A,3
+TKT-5226,2026-01-05 16:00,Email,Late Fee Dispute,27.4,No,4
+TKT-5227,2026-02-15 09:00,Instagram DM,Rental Availability,26.5,N/A,5
+TKT-5228,2026-02-08 11:00,Phone,Late Fee Dispute,2.7,Yes,
+TKT-5229,2026-05-15 12:00,Web Form,Late Fee Dispute,1.5,No,3
+TKT-5230,2026-04-12 09:00,Phone,Gear Recommendation,3.3,N/A,4
+TKT-5231,2026-04-28 17:00,Email,Late Fee Dispute,42.7,Yes,
+TKT-5232,2026-06-28 11:00,Instagram DM,Late Fee Dispute,21.3,Yes,
+TKT-5233,2026-01-21 18:00,Instagram DM,Rental Availability,25.1,N/A,1
+TKT-5234,2026-01-24 14:00,Email,Rental Availability,7.8,N/A,5
+TKT-5235,2026-05-02 08:00,Email,Gear Recommendation,12.3,N/A,2
+TKT-5236,2026-01-22 15:00,Phone,Rental Availability,3.2,N/A,3
+TKT-5237,2026-05-25 09:00,Email,Rental Availability,32.6,N/A,1
+TKT-5238,2026-02-28 11:00,Email,Repair Status,36.0,N/A,5
+TKT-5239,2026-05-02 12:00,Phone,Rental Availability,1.2,N/A,
+TKT-5240,2026-01-20 18:00,Email,Rental Availability,39.9,N/A,5
+TKT-5241,2026-05-25 18:00,Phone,Late Fee Dispute,2.6,Yes,
+TKT-5242,2026-03-22 08:00,Web Form,Gear Recommendation,3.5,N/A,5
+TKT-5243,2026-02-06 14:00,Instagram DM,Gear Recommendation,45.6,N/A,3
+TKT-5244,2026-02-11 17:00,Phone,Rental Availability,2.6,N/A,
+TKT-5245,2026-04-10 18:00,Email,Rental Availability,21.5,N/A,3
+TKT-5246,2026-04-09 10:00,Phone,Late Fee Dispute,2.6,Yes,1
+TKT-5247,2026-05-09 13:00,Email,Rental Availability,25.8,N/A,
+TKT-5248,2026-04-22 11:00,Instagram DM,Class Registration,34.3,N/A,3
+TKT-5249,2026-06-04 17:00,Instagram DM,Gear Recommendation,17.0,N/A,4
+TKT-5250,2026-03-25 08:00,Web Form,Rental Availability,1.8,N/A,4
+TKT-5251,2026-05-06 11:00,Instagram DM,Class Registration,43.3,N/A,4
+TKT-5252,2026-04-21 10:00,Instagram DM,Class Registration,26.2,N/A,4
+TKT-5253,2026-01-22 17:00,Web Form,Repair Status,0.7,N/A,
+TKT-5254,2026-03-05 09:00,Email,Rental Availability,28.8,N/A,
+TKT-5255,2026-02-09 14:00,Instagram DM,Rental Availability,16.2,N/A,2
+TKT-5256,2026-04-10 13:00,Phone,Gear Recommendation,2.3,N/A,1
+TKT-5257,2026-01-02 12:00,Phone,Late Fee Dispute,3.7,Yes,3
+TKT-5258,2026-01-27 10:00,Phone,Class Registration,2.3,N/A,
+TKT-5259,2026-04-21 15:00,Instagram DM,Rental Availability,34.8,N/A,5
+TKT-5260,2026-04-15 09:00,Phone,Rental Availability,2.8,N/A,
+TKT-5261,2026-04-01 16:00,Web Form,Rental Availability,1.1,N/A,
+TKT-5262,2026-06-03 13:00,Phone,Gear Recommendation,2.3,N/A,1
+TKT-5263,2026-03-16 14:00,Instagram DM,Class Registration,7.2,N/A,1
+TKT-5264,2026-05-24 11:00,Email,Rental Availability,27.3,N/A,2
+TKT-5265,2026-06-25 14:00,Email,Gear Recommendation,41.5,N/A,
+TKT-5266,2026-03-10 12:00,Email,Class Registration,6.6,N/A,
+TKT-5267,2026-02-07 09:00,Email,Rental Availability,10.7,N/A,
+TKT-5268,2026-03-12 14:00,Instagram DM,Repair Status,14.2,N/A,
+TKT-5269,2026-01-20 13:00,Instagram DM,Gear Recommendation,0.5,N/A,
+TKT-5270,2026-03-05 18:00,Phone,Rental Availability,3.7,N/A,5
+TKT-5271,2026-02-20 15:00,Email,Class Registration,15.0,N/A,
+TKT-5272,2026-03-19 08:00,Email,Gear Recommendation,26.2,N/A,3
+TKT-5273,2026-06-08 14:00,Phone,Class Registration,1.2,N/A,3
+TKT-5274,2026-04-23 13:00,Email,Class Registration,46.3,N/A,5
+TKT-5275,2026-02-04 12:00,Phone,Class Registration,3.9,N/A,2
+TKT-5276,2026-05-03 13:00,Instagram DM,Rental Availability,23.9,N/A,
+TKT-5277,2026-04-12 13:00,Email,Rental Availability,39.7,N/A,
+TKT-5278,2026-06-27 18:00,Email,Gear Recommendation,35.4,N/A,5
+TKT-5279,2026-03-04 13:00,Phone,Late Fee Dispute,2.7,Yes,4
+TKT-5280,2026-04-04 09:00,Email,Late Fee Dispute,23.0,Yes,2
+TKT-5281,2026-06-01 16:00,Instagram DM,Repair Status,22.5,N/A,
+TKT-5282,2026-05-21 08:00,Web Form,Class Registration,3.9,N/A,4
+TKT-5283,2026-02-23 15:00,Instagram DM,Rental Availability,11.1,N/A,1
+TKT-5284,2026-04-15 18:00,Phone,Gear Recommendation,3.2,N/A,3
+TKT-5285,2026-03-03 12:00,Phone,Rental Availability,0.5,N/A,4
+TKT-5286,2026-04-07 09:00,Email,Rental Availability,17.7,N/A,5
+TKT-5287,2026-05-03 17:00,Phone,Rental Availability,2.8,N/A,5
+TKT-5288,2026-06-27 14:00,Web Form,Rental Availability,3.0,N/A,3
+TKT-5289,2026-06-29 16:00,Instagram DM,Rental Availability,21.7,N/A,1
+TKT-5290,2026-01-28 11:00,Instagram DM,Late Fee Dispute,10.7,Yes,3
+TKT-5291,2026-02-12 18:00,Instagram DM,Late Fee Dispute,23.4,Yes,5
+TKT-5292,2026-06-15 18:00,Instagram DM,Gear Recommendation,28.3,N/A,3
+TKT-5293,2026-04-21 09:00,Email,Gear Recommendation,10.8,N/A,
+TKT-5294,2026-03-08 11:00,Phone,Repair Status,1.0,N/A,5
+TKT-5295,2026-05-23 17:00,Email,Repair Status,13.3,N/A,2
+TKT-5296,2026-04-25 13:00,Email,Rental Availability,20.4,N/A,5
+TKT-5297,2026-06-26 16:00,Instagram DM,Rental Availability,42.8,N/A,
+TKT-5298,2026-01-07 15:00,Phone,Rental Availability,2.1,N/A,
+TKT-5299,2026-04-17 09:00,Phone,Rental Availability,0.9,N/A,
+TKT-5300,2026-02-06 13:00,Instagram DM,Rental Availability,27.0,N/A,4
+TKT-5301,2026-02-22 16:00,Phone,Repair Status,2.1,N/A,4
+TKT-5302,2026-01-25 15:00,Email,Late Fee Dispute,34.6,No,4
+TKT-5303,2026-03-23 09:00,Email,Class Registration,13.0,N/A,1
+TKT-5304,2026-01-06 13:00,Email,Class Registration,29.6,N/A,2
+TKT-5305,2026-03-04 16:00,Phone,Rental Availability,2.0,N/A,
+TKT-5306,2026-02-10 13:00,Email,Rental Availability,15.2,N/A,4
+TKT-5307,2026-03-01 14:00,Instagram DM,Class Registration,14.3,N/A,2
+TKT-5308,2026-06-13 18:00,Phone,Rental Availability,2.4,N/A,1
+TKT-5309,2026-06-07 11:00,Email,Class Registration,32.3,N/A,4
+TKT-5310,2026-04-10 08:00,Phone,Rental Availability,0.9,N/A,2
+TKT-5311,2026-03-13 09:00,Email,Repair Status,0.5,N/A,5
+TKT-5312,2026-02-17 13:00,Instagram DM,Class Registration,0.5,N/A,4
+TKT-5313,2026-01-30 12:00,Phone,Late Fee Dispute,1.0,Yes,4
+TKT-5314,2026-05-16 18:00,Phone,Gear Recommendation,1.4,N/A,4
+TKT-5315,2026-06-06 14:00,Instagram DM,Rental Availability,23.3,N/A,3
+TKT-5316,2026-04-01 15:00,Email,Rental Availability,37.9,N/A,3
+TKT-5317,2026-06-07 17:00,Phone,Rental Availability,1.2,N/A,
+TKT-5318,2026-02-04 13:00,Instagram DM,Gear Recommendation,19.7,N/A,
+TKT-5319,2026-03-20 09:00,Phone,Repair Status,2.5,N/A,
+TKT-5320,2026-06-27 10:00,Instagram DM,Rental Availability,23.3,N/A,4
+TKT-5321,2026-06-02 10:00,Web Form,Late Fee Dispute,1.3,Yes,4
+TKT-5322,2026-02-17 15:00,Email,Class Registration,18.9,N/A,2
+TKT-5323,2026-05-23 10:00,Instagram DM,Repair Status,37.8,N/A,2
+TKT-5324,2026-02-17 13:00,Email,Late Fee Dispute,35.0,Yes,5
+TKT-5325,2026-01-14 13:00,Phone,Gear Recommendation,1.3,N/A,4
+TKT-5326,2026-02-04 11:00,Email,Repair Status,9.4,N/A,5
+TKT-5327,2026-05-10 18:00,Phone,Gear Recommendation,2.1,N/A,4
+TKT-5328,2026-04-17 15:00,Email,Gear Recommendation,20.8,N/A,1
+TKT-5329,2026-05-25 08:00,Web Form,Rental Availability,2.5,N/A,2
+TKT-5330,2026-03-16 08:00,Email,Rental Availability,27.6,N/A,
+TKT-5331,2026-05-18 12:00,Email,Late Fee Dispute,33.1,No,
+TKT-5332,2026-04-28 17:00,Email,Gear Recommendation,24.3,N/A,4
+TKT-5333,2026-05-21 16:00,Web Form,Late Fee Dispute,3.4,No,
+TKT-5334,2026-01-30 12:00,Phone,Class Registration,0.8,N/A,3
+TKT-5335,2026-05-19 08:00,Email,Class Registration,20.9,N/A,4
+TKT-5336,2026-05-20 11:00,Phone,Class Registration,1.2,N/A,1
+TKT-5337,2026-06-17 11:00,Instagram DM,Gear Recommendation,31.2,N/A,
+TKT-5338,2026-01-09 15:00,Phone,Class Registration,1.7,N/A,
+TKT-5339,2026-01-23 15:00,Instagram DM,Late Fee Dispute,0.5,Yes,1
+TKT-5340,2026-03-02 11:00,Phone,Gear Recommendation,1.0,N/A,5
+TKT-5341,2026-06-26 13:00,Instagram DM,Gear Recommendation,17.9,N/A,5
+TKT-5342,2026-06-11 14:00,Email,Rental Availability,19.3,N/A,
+TKT-5343,2026-02-05 11:00,Phone,Class Registration,1.1,N/A,1
+TKT-5344,2026-05-26 13:00,Phone,Class Registration,3.0,N/A,5
+TKT-5345,2026-05-18 10:00,Phone,Repair Status,1.6,N/A,3
+TKT-5346,2026-03-16 17:00,Phone,Rental Availability,0.8,N/A,
+TKT-5347,2026-05-12 18:00,Phone,Rental Availability,3.2,N/A,2
+TKT-5348,2026-04-16 08:00,Email,Gear Recommendation,31.0,N/A,2
+TKT-5349,2026-06-29 10:00,Email,Class Registration,18.3,N/A,
+TKT-5350,2026-03-24 11:00,Phone,Late Fee Dispute,1.0,Yes,4
+TKT-5351,2026-05-06 10:00,Email,Class Registration,15.9,N/A,3
+TKT-5352,2026-06-10 14:00,Web Form,Gear Recommendation,2.7,N/A,1
+TKT-5353,2026-06-12 09:00,Phone,Rental Availability,2.7,N/A,3
+TKT-5354,2026-06-27 13:00,Web Form,Class Registration,1.0,N/A,4
+TKT-5355,2026-03-25 17:00,Phone,Late Fee Dispute,2.2,No,
+TKT-5356,2026-01-24 15:00,Phone,Rental Availability,1.5,N/A,3
+TKT-5357,2026-01-17 16:00,Instagram DM,Repair Status,22.9,N/A,4
+TKT-5358,2026-02-24 15:00,Email,Gear Recommendation,30.2,N/A,
+TKT-5359,2026-03-14 13:00,Instagram DM,Gear Recommendation,20.9,N/A,2
+TKT-5360,2026-05-25 15:00,Email,Repair Status,12.8,N/A,1
+TKT-5361,2026-01-12 09:00,Instagram DM,Rental Availability,37.0,N/A,4
+TKT-5362,2026-01-05 09:00,Instagram DM,Rental Availability,28.4,N/A,2
+TKT-5363,2026-04-23 15:00,Email,Rental Availability,46.1,N/A,
+TKT-5364,2026-04-20 11:00,Email,Late Fee Dispute,33.6,Yes,2
+TKT-5365,2026-06-16 12:00,Email,Class Registration,4.6,N/A,
+TKT-5366,2026-03-12 09:00,Email,Repair Status,29.1,N/A,3
+TKT-5367,2026-01-22 13:00,Phone,Gear Recommendation,2.9,N/A,2
+TKT-5368,2026-01-14 14:00,Email,Rental Availability,32.8,N/A,2
+TKT-5369,2026-04-20 18:00,Email,Class Registration,16.2,N/A,
+TKT-5370,2026-01-25 08:00,Web Form,Gear Recommendation,1.3,N/A,
+TKT-5371,2026-01-20 10:00,Instagram DM,Class Registration,24.4,N/A,5
+TKT-5372,2026-06-24 15:00,Email,Rental Availability,27.2,N/A,
+TKT-5373,2026-06-28 13:00,Instagram DM,Gear Recommendation,31.7,N/A,4
+TKT-5374,2026-06-27 10:00,Phone,Late Fee Dispute,0.5,Yes,2
+TKT-5375,2026-04-09 09:00,Instagram DM,Class Registration,15.7,N/A,1
+TKT-5376,2026-01-27 13:00,Instagram DM,Late Fee Dispute,43.3,Yes,3
+TKT-5377,2026-02-05 14:00,Instagram DM,Rental Availability,39.8,N/A,2
+TKT-5378,2026-06-14 18:00,Phone,Rental Availability,1.7,N/A,
+TKT-5379,2026-05-16 17:00,Phone,Repair Status,0.5,N/A,
+TKT-5380,2026-06-16 10:00,Phone,Class Registration,4.3,N/A,2
+TKT-5381,2026-06-10 10:00,Email,Rental Availability,25.3,N/A,5
+TKT-5382,2026-06-25 15:00,Email,Late Fee Dispute,21.4,Yes,1
+TKT-5383,2026-01-26 10:00,Phone,Rental Availability,0.5,N/A,5
+TKT-5384,2026-04-09 13:00,Email,Late Fee Dispute,20.3,No,3
+TKT-5385,2026-02-05 11:00,Phone,Late Fee Dispute,1.2,Yes,
+TKT-5386,2026-01-22 11:00,Web Form,Rental Availability,2.2,N/A,5
+TKT-5387,2026-06-05 12:00,Email,Rental Availability,15.0,N/A,1
+TKT-5388,2026-06-18 12:00,Phone,Gear Recommendation,3.9,N/A,
+TKT-5389,2026-06-05 16:00,Web Form,Rental Availability,1.9,N/A,
+TKT-5390,2026-04-11 12:00,Email,Rental Availability,2.4,N/A,2
+TKT-5391,2026-05-07 14:00,Web Form,Class Registration,0.5,N/A,
+TKT-5392,2026-05-08 18:00,Phone,Rental Availability,1.5,N/A,5
+TKT-5393,2026-01-04 13:00,Email,Rental Availability,25.8,N/A,2
+TKT-5394,2026-04-10 17:00,Phone,Class Registration,1.7,N/A,5
+TKT-5395,2026-06-24 10:00,Phone,Rental Availability,1.1,N/A,1
+TKT-5396,2026-01-05 17:00,Email,Late Fee Dispute,22.4,Yes,
+TKT-5397,2026-03-09 11:00,Email,Repair Status,24.9,N/A,
+TKT-5398,2026-01-16 14:00,Phone,Class Registration,3.2,N/A,5
+TKT-5399,2026-04-17 14:00,Email,Class Registration,3.2,N/A,1
+TKT-5400,2026-06-13 16:00,Web Form,Class Registration,2.4,N/A,2
+TKT-5401,2026-03-13 09:00,Email,Repair Status,31.6,N/A,5
+TKT-5402,2026-02-22 10:00,Email,Late Fee Dispute,3.6,Yes,4
+TKT-5403,2026-05-31 18:00,Phone,Rental Availability,1.4,N/A,1
+TKT-5404,2026-03-21 14:00,Email,Class Registration,39.2,N/A,2
+TKT-5405,2026-01-15 11:00,Phone,Gear Recommendation,1.1,N/A,
+TKT-5406,2026-04-22 09:00,Phone,Late Fee Dispute,0.8,Yes,5
+TKT-5407,2026-01-15 12:00,Instagram DM,Late Fee Dispute,35.0,No,2
+TKT-5408,2026-01-31 08:00,Instagram DM,Gear Recommendation,22.4,N/A,1
+TKT-5409,2026-02-11 15:00,Email,Class Registration,33.7,N/A,5
+TKT-5410,2026-05-13 12:00,Email,Class Registration,36.4,N/A,
+TKT-5411,2026-02-02 12:00,Email,Rental Availability,37.5,N/A,1
+TKT-5412,2026-01-08 13:00,Phone,Rental Availability,1.7,N/A,3
+TKT-5413,2026-05-15 09:00,Email,Rental Availability,33.4,N/A,
+TKT-5414,2026-05-28 18:00,Phone,Class Registration,1.4,N/A,
+TKT-5415,2026-04-27 16:00,Phone,Rental Availability,1.8,N/A,4
+TKT-5416,2026-05-26 10:00,Phone,Class Registration,0.8,N/A,3
+TKT-5417,2026-01-27 17:00,Web Form,Late Fee Dispute,1.4,No,1
+TKT-5418,2026-02-28 16:00,Email,Late Fee Dispute,24.1,No,
+TKT-5419,2026-01-04 11:00,Email,Rental Availability,18.3,N/A,
+TKT-5420,2026-04-04 14:00,Email,Rental Availability,20.9,N/A,2
+TKT-5421,2026-01-10 16:00,Email,Repair Status,43.2,N/A,4
+TKT-5422,2026-02-27 13:00,Email,Repair Status,32.4,N/A,
+TKT-5423,2026-03-23 12:00,Phone,Gear Recommendation,1.7,N/A,5
+TKT-5424,2026-04-06 09:00,Web Form,Rental Availability,1.9,N/A,1
+TKT-5425,2026-02-15 11:00,Email,Rental Availability,29.4,N/A,1
+TKT-5426,2026-04-13 09:00,Phone,Rental Availability,3.7,N/A,3
+TKT-5427,2026-03-21 13:00,Instagram DM,Gear Recommendation,50.8,N/A,
+TKT-5428,2026-04-27 08:00,Phone,Rental Availability,1.2,N/A,3
+TKT-5429,2026-05-25 12:00,Email,Rental Availability,16.5,N/A,2
+TKT-5430,2026-04-29 13:00,Email,Repair Status,0.5,N/A,4
+TKT-5431,2026-02-20 16:00,Phone,Rental Availability,2.7,N/A,2
+TKT-5432,2026-02-08 08:00,Phone,Class Registration,0.5,N/A,1
+TKT-5433,2026-03-01 16:00,Web Form,Gear Recommendation,1.7,N/A,1
+TKT-5434,2026-03-27 08:00,Phone,Class Registration,0.8,N/A,4
+TKT-5435,2026-03-20 09:00,Email,Rental Availability,30.0,N/A,
+TKT-5436,2026-03-02 14:00,Phone,Late Fee Dispute,2.3,Yes,1
+TKT-5437,2026-02-06 12:00,Instagram DM,Rental Availability,29.6,N/A,
+TKT-5438,2026-03-01 16:00,Instagram DM,Rental Availability,16.0,N/A,3
+TKT-5439,2026-04-28 09:00,Instagram DM,Repair Status,34.5,N/A,5
+TKT-5440,2026-02-04 18:00,Email,Late Fee Dispute,23.8,No,1
+TKT-5441,2026-06-01 17:00,Phone,Rental Availability,2.4,N/A,
+TKT-5442,2026-06-19 10:00,Email,Rental Availability,16.9,N/A,
+TKT-5443,2026-03-08 13:00,Phone,Late Fee Dispute,3.4,Yes,4
+TKT-5444,2026-06-29 13:00,Instagram DM,Repair Status,38.3,N/A,3
+TKT-5445,2026-03-01 09:00,Instagram DM,Class Registration,20.0,N/A,2
+TKT-5446,2026-05-30 09:00,Web Form,Rental Availability,3.2,N/A,
+TKT-5447,2026-02-12 15:00,Instagram DM,Rental Availability,21.5,N/A,4
+TKT-5448,2026-01-31 16:00,Instagram DM,Late Fee Dispute,52.0,No,2
+TKT-5449,2026-04-26 12:00,Email,Late Fee Dispute,26.3,No,1
+TKT-5450,2026-01-24 10:00,Instagram DM,Class Registration,19.1,N/A,3
+TKT-5451,2026-06-30 17:00,Email,Gear Recommendation,15.0,N/A,
+TKT-5452,2026-03-25 10:00,Email,Rental Availability,17.6,N/A,
+TKT-5453,2026-03-05 13:00,Email,Class Registration,34.3,N/A,1
+TKT-5454,2026-06-23 12:00,Instagram DM,Class Registration,29.1,N/A,
+TKT-5455,2026-02-14 08:00,Instagram DM,Class Registration,16.9,N/A,4
+TKT-5456,2026-05-23 16:00,Instagram DM,Gear Recommendation,14.8,N/A,
+TKT-5457,2026-04-29 09:00,Phone,Rental Availability,2.2,N/A,2
+TKT-5458,2026-02-01 08:00,Phone,Late Fee Dispute,1.8,Yes,
+TKT-5459,2026-02-26 10:00,Instagram DM,Repair Status,17.4,N/A,
+TKT-5460,2026-04-13 13:00,Email,Repair Status,1.3,N/A,1
+TKT-5461,2026-05-30 17:00,Email,Late Fee Dispute,26.6,No,
+TKT-5462,2026-01-20 08:00,Instagram DM,Rental Availability,22.1,N/A,2
+TKT-5463,2026-06-15 15:00,Email,Rental Availability,15.5,N/A,1
+TKT-5464,2026-03-26 09:00,Email,Gear Recommendation,22.1,N/A,
+TKT-5465,2026-04-29 08:00,Web Form,Rental Availability,2.7,N/A,
+TKT-5466,2026-05-27 14:00,Phone,Rental Availability,2.1,N/A,4
+TKT-5467,2026-05-08 08:00,Phone,Rental Availability,2.0,N/A,4
+TKT-5468,2026-02-14 13:00,Phone,Rental Availability,2.0,N/A,
+TKT-5469,2026-02-17 12:00,Phone,Class Registration,3.0,N/A,
+TKT-5470,2026-02-08 08:00,Phone,Rental Availability,0.9,N/A,5
+TKT-5471,2026-03-04 18:00,Instagram DM,Gear Recommendation,33.4,N/A,
+TKT-5472,2026-04-16 16:00,Instagram DM,Class Registration,10.1,N/A,1
+TKT-5473,2026-03-13 14:00,Instagram DM,Rental Availability,24.8,N/A,
+TKT-5474,2026-02-21 18:00,Phone,Rental Availability,2.3,N/A,5
+TKT-5475,2026-03-05 18:00,Email,Class Registration,12.6,N/A,5
+TKT-5476,2026-01-05 14:00,Email,Rental Availability,16.5,N/A,3
+TKT-5477,2026-05-03 16:00,Email,Class Registration,24.2,N/A,3
+TKT-5478,2026-05-25 16:00,Email,Gear Recommendation,13.7,N/A,3
+TKT-5479,2026-02-16 08:00,Email,Rental Availability,37.5,N/A,2
+TKT-5480,2026-01-08 12:00,Email,Gear Recommendation,36.3,N/A,
+TKT-5481,2026-05-01 16:00,Instagram DM,Late Fee Dispute,16.0,No,5
+TKT-5482,2026-03-01 10:00,Email,Repair Status,27.2,N/A,
+TKT-5483,2026-06-18 11:00,Phone,Rental Availability,1.4,N/A,
+TKT-5484,2026-01-15 11:00,Phone,Class Registration,3.0,N/A,4
+TKT-5485,2026-04-01 10:00,Web Form,Gear Recommendation,3.2,N/A,
+TKT-5486,2026-06-01 13:00,Web Form,Class Registration,1.4,N/A,3
+TKT-5487,2026-06-01 08:00,Instagram DM,Class Registration,20.2,N/A,3
+TKT-5488,2026-05-26 17:00,Email,Rental Availability,24.0,N/A,
+TKT-5489,2026-02-18 15:00,Phone,Late Fee Dispute,2.6,Yes,2
+TKT-5490,2026-05-06 08:00,Email,Rental Availability,38.8,N/A,
+TKT-5491,2026-03-01 17:00,Instagram DM,Rental Availability,20.2,N/A,
+TKT-5492,2026-05-15 15:00,Phone,Late Fee Dispute,1.7,No,
+TKT-5493,2026-06-07 11:00,Phone,Rental Availability,2.4,N/A,3
+TKT-5494,2026-02-15 13:00,Email,Class Registration,13.6,N/A,
+TKT-5495,2026-02-07 17:00,Phone,Rental Availability,3.1,N/A,2
+TKT-5496,2026-01-29 16:00,Instagram DM,Rental Availability,20.1,N/A,1
+TKT-5497,2026-04-06 18:00,Email,Rental Availability,31.2,N/A,1
+TKT-5498,2026-03-28 12:00,Email,Late Fee Dispute,32.9,Yes,2
+TKT-5499,2026-04-22 18:00,Email,Rental Availability,17.8,N/A,3
+TKT-5500,2026-02-14 16:00,Email,Rental Availability,21.4,N/A,5
+TKT-5501,2026-04-02 11:00,Phone,Late Fee Dispute,0.5,Yes,2
+TKT-5502,2026-04-07 12:00,Email,Late Fee Dispute,24.3,No,3
+TKT-5503,2026-02-02 10:00,Email,Gear Recommendation,30.6,N/A,5
+TKT-5504,2026-04-11 17:00,Instagram DM,Late Fee Dispute,21.1,Yes,
+TKT-5505,2026-06-04 13:00,Email,Rental Availability,26.3,N/A,5
+TKT-5506,2026-02-26 18:00,Instagram DM,Late Fee Dispute,9.1,Yes,4
+TKT-5507,2026-02-06 13:00,Email,Class Registration,6.4,N/A,2
+TKT-5508,2026-03-30 13:00,Web Form,Gear Recommendation,2.7,N/A,
+TKT-5509,2026-01-23 18:00,Phone,Rental Availability,2.7,N/A,3
+TKT-5510,2026-04-25 08:00,Email,Rental Availability,15.1,N/A,
+TKT-5511,2026-03-05 09:00,Phone,Class Registration,1.2,N/A,1
+TKT-5512,2026-01-01 08:00,Phone,Rental Availability,2.5,N/A,4
+TKT-5513,2026-02-12 14:00,Email,Rental Availability,24.6,N/A,4
+TKT-5514,2026-03-31 16:00,Email,Rental Availability,28.1,N/A,4
+TKT-5515,2026-05-28 18:00,Instagram DM,Class Registration,12.1,N/A,2
+TKT-5516,2026-02-11 15:00,Email,Gear Recommendation,8.4,N/A,
+TKT-5517,2026-01-09 12:00,Phone,Rental Availability,3.6,N/A,
+TKT-5518,2026-03-08 09:00,Email,Repair Status,20.8,N/A,
+TKT-5519,2026-02-13 14:00,Instagram DM,Class Registration,2.0,N/A,
+TKT-5520,2026-01-20 16:00,Email,Rental Availability,10.9,N/A,1
+TKT-5521,2026-03-28 17:00,Web Form,Late Fee Dispute,1.8,Yes,4
+TKT-5522,2026-06-30 08:00,Phone,Class Registration,1.8,N/A,2
+TKT-5523,2026-06-05 14:00,Instagram DM,Late Fee Dispute,19.7,Yes,
+TKT-5524,2026-01-26 13:00,Phone,Rental Availability,1.8,N/A,
+TKT-5525,2026-02-18 14:00,Email,Rental Availability,9.2,N/A,5
+TKT-5526,2026-03-09 18:00,Instagram DM,Repair Status,29.4,N/A,
+TKT-5527,2026-03-02 09:00,Email,Repair Status,28.5,N/A,
+TKT-5528,2026-05-27 16:00,Email,Repair Status,24.6,N/A,2
+TKT-5529,2026-01-14 13:00,Email,Late Fee Dispute,28.0,Yes,
+TKT-5530,2026-01-23 12:00,Email,Class Registration,29.1,N/A,5
+TKT-5531,2026-05-03 11:00,Instagram DM,Rental Availability,24.2,N/A,
+TKT-5532,2026-02-22 10:00,Phone,Class Registration,2.7,N/A,1
+TKT-5533,2026-05-02 09:00,Phone,Rental Availability,0.7,N/A,4
+TKT-5534,2026-05-01 15:00,Phone,Gear Recommendation,1.7,N/A,3
+TKT-5535,2026-01-24 18:00,Email,Rental Availability,24.0,N/A,2
+TKT-5536,2026-04-05 14:00,Web Form,Rental Availability,0.7,N/A,4
+TKT-5537,2026-01-12 12:00,Email,Gear Recommendation,31.3,N/A,3
+TKT-5538,2026-02-27 12:00,Instagram DM,Rental Availability,18.8,N/A,2
+TKT-5539,2026-06-28 18:00,Phone,Class Registration,1.9,N/A,
+TKT-5540,2026-06-21 13:00,Email,Rental Availability,32.9,N/A,4
+TKT-5541,2026-05-31 11:00,Web Form,Rental Availability,1.8,N/A,4
+TKT-5542,2026-05-14 14:00,Instagram DM,Rental Availability,41.0,N/A,4
+TKT-5543,2026-05-27 11:00,Web Form,Repair Status,1.4,N/A,1
+TKT-5544,2026-04-12 08:00,Phone,Rental Availability,1.3,N/A,5
+TKT-5545,2026-05-27 18:00,Phone,Rental Availability,2.8,N/A,2
+TKT-5546,2026-01-31 15:00,Phone,Rental Availability,2.0,N/A,
+TKT-5547,2026-02-12 11:00,Email,Rental Availability,12.6,N/A,2
+TKT-5548,2026-01-11 14:00,Email,Rental Availability,19.1,N/A,
+TKT-5549,2026-06-24 14:00,Web Form,Class Registration,2.7,N/A,
+TKT-5550,2026-06-10 10:00,Phone,Class Registration,3.6,N/A,3
+TKT-5551,2026-03-23 09:00,Email,Rental Availability,25.3,N/A,
+TKT-5552,2026-05-23 14:00,Instagram DM,Repair Status,21.7,N/A,3
+TKT-5553,2026-05-14 15:00,Instagram DM,Late Fee Dispute,35.1,Yes,1
+TKT-5554,2026-06-29 17:00,Email,Class Registration,17.4,N/A,4
+TKT-5555,2026-01-29 14:00,Instagram DM,Rental Availability,11.7,N/A,
+TKT-5556,2026-05-26 17:00,Email,Rental Availability,24.1,N/A,1
+TKT-5557,2026-01-28 17:00,Phone,Gear Recommendation,2.7,N/A,3
+TKT-5558,2026-05-18 13:00,Instagram DM,Rental Availability,36.4,N/A,3
+TKT-5559,2026-04-09 18:00,Phone,Rental Availability,2.7,N/A,5
+TKT-5560,2026-05-02 08:00,Instagram DM,Late Fee Dispute,17.1,Yes,
+TKT-5561,2026-04-14 10:00,Email,Gear Recommendation,4.0,N/A,4
+TKT-5562,2026-01-10 14:00,Email,Late Fee Dispute,15.9,No,3
+TKT-5563,2026-06-26 11:00,Email,Rental Availability,24.4,N/A,
+TKT-5564,2026-05-02 12:00,Email,Rental Availability,38.6,N/A,1
+TKT-5565,2026-03-28 12:00,Instagram DM,Late Fee Dispute,33.8,Yes,4
+TKT-5566,2026-06-28 18:00,Email,Class Registration,18.4,N/A,
+TKT-5567,2026-02-28 10:00,Email,Repair Status,29.5,N/A,4
+TKT-5568,2026-03-24 12:00,Instagram DM,Repair Status,16.8,N/A,5
+TKT-5569,2026-06-15 09:00,Phone,Class Registration,3.4,N/A,
+TKT-5570,2026-02-24 14:00,Email,Late Fee Dispute,14.0,No,5
+TKT-5571,2026-04-06 08:00,Phone,Repair Status,2.5,N/A,2
+TKT-5572,2026-01-17 12:00,Email,Rental Availability,4.9,N/A,4
+TKT-5573,2026-02-04 16:00,Instagram DM,Gear Recommendation,33.5,N/A,1
+TKT-5574,2026-02-14 11:00,Email,Late Fee Dispute,0.5,No,2
+TKT-5575,2026-01-15 11:00,Instagram DM,Class Registration,25.9,N/A,
+TKT-5576,2026-01-13 13:00,Instagram DM,Late Fee Dispute,26.8,No,3
+TKT-5577,2026-04-05 15:00,Instagram DM,Rental Availability,30.0,N/A,1
+TKT-5578,2026-06-24 08:00,Instagram DM,Rental Availability,8.4,N/A,
+TKT-5579,2026-05-06 17:00,Web Form,Gear Recommendation,0.8,N/A,4
+TKT-5580,2026-05-31 16:00,Instagram DM,Class Registration,31.6,N/A,2
+TKT-5581,2026-03-08 09:00,Phone,Rental Availability,2.1,N/A,
+TKT-5582,2026-04-09 08:00,Email,Gear Recommendation,15.5,N/A,
+TKT-5583,2026-05-27 11:00,Email,Gear Recommendation,41.3,N/A,2
+TKT-5584,2026-06-23 11:00,Email,Class Registration,23.3,N/A,
+TKT-5585,2026-04-15 16:00,Email,Class Registration,29.5,N/A,
+TKT-5586,2026-06-24 08:00,Instagram DM,Late Fee Dispute,45.8,No,2
+TKT-5587,2026-06-15 10:00,Email,Gear Recommendation,24.5,N/A,1
+TKT-5588,2026-02-27 12:00,Phone,Rental Availability,1.5,N/A,3
+TKT-5589,2026-06-14 12:00,Email,Gear Recommendation,13.6,N/A,4
+TKT-5590,2026-03-31 15:00,Phone,Gear Recommendation,2.7,N/A,
+TKT-5591,2026-04-30 12:00,Phone,Gear Recommendation,0.6,N/A,5
+TKT-5592,2026-04-12 17:00,Web Form,Rental Availability,1.6,N/A,
+TKT-5593,2026-05-11 18:00,Phone,Rental Availability,2.1,N/A,3
+TKT-5594,2026-05-24 18:00,Email,Rental Availability,5.7,N/A,3
+TKT-5595,2026-03-18 18:00,Instagram DM,Late Fee Dispute,37.4,Yes,
+TKT-5596,2026-01-17 13:00,Instagram DM,Rental Availability,45.8,N/A,3
+TKT-5597,2026-03-12 12:00,Email,Rental Availability,16.1,N/A,3
+TKT-5598,2026-02-18 10:00,Email,Repair Status,40.6,N/A,2
+TKT-5599,2026-01-15 17:00,Phone,Rental Availability,3.1,N/A,3
+TKT-5600,2026-06-24 10:00,Phone,Gear Recommendation,1.7,N/A,4
+TKT-5601,2026-03-17 12:00,Email,Late Fee Dispute,17.7,No,4
+TKT-5602,2026-04-10 08:00,Email,Late Fee Dispute,21.2,No,5
+TKT-5603,2026-02-18 13:00,Instagram DM,Late Fee Dispute,12.9,Yes,2
+TKT-5604,2026-06-25 16:00,Email,Rental Availability,23.0,N/A,4
+TKT-5605,2026-06-21 13:00,Email,Rental Availability,6.6,N/A,2
+TKT-5606,2026-06-18 16:00,Phone,Repair Status,1.3,N/A,
+TKT-5607,2026-01-25 15:00,Email,Repair Status,26.1,N/A,
+TKT-5608,2026-03-08 16:00,Email,Rental Availability,44.1,N/A,2
+TKT-5609,2026-06-24 13:00,Phone,Rental Availability,3.3,N/A,2
+TKT-5610,2026-04-01 11:00,Email,Repair Status,33.7,N/A,3
+TKT-5611,2026-04-18 13:00,Instagram DM,Class Registration,10.2,N/A,5
+TKT-5612,2026-03-17 15:00,Email,Rental Availability,36.2,N/A,4
+TKT-5613,2026-01-14 18:00,Web Form,Rental Availability,2.3,N/A,5
+TKT-5614,2026-01-19 15:00,Email,Repair Status,30.6,N/A,5
+TKT-5615,2026-01-31 18:00,Email,Class Registration,28.1,N/A,3
+TKT-5616,2026-04-16 08:00,Instagram DM,Class Registration,21.2,N/A,2
+TKT-5617,2026-02-05 11:00,Phone,Rental Availability,2.0,N/A,5
+TKT-5618,2026-04-28 10:00,Phone,Repair Status,3.1,N/A,2
+TKT-5619,2026-01-21 15:00,Email,Class Registration,20.0,N/A,2
+TKT-5620,2026-03-22 18:00,Web Form,Rental Availability,2.0,N/A,
+TKT-5621,2026-04-26 12:00,Email,Class Registration,21.9,N/A,
+TKT-5622,2026-02-13 17:00,Web Form,Late Fee Dispute,1.6,No,4
+TKT-5623,2026-01-23 10:00,Email,Class Registration,4.7,N/A,4
+TKT-5624,2026-04-14 14:00,Phone,Class Registration,2.8,N/A,4
+TKT-5625,2026-01-02 08:00,Email,Rental Availability,12.3,N/A,3
+TKT-5626,2026-01-04 13:00,Instagram DM,Class Registration,15.6,N/A,5
+TKT-5627,2026-02-18 08:00,Email,Rental Availability,13.6,N/A,2
+TKT-5628,2026-02-27 13:00,Phone,Class Registration,3.6,N/A,1
+TKT-5629,2026-04-09 16:00,Email,Repair Status,36.0,N/A,2
+TKT-5630,2026-01-17 08:00,Instagram DM,Gear Recommendation,7.2,N/A,
+TKT-5631,2026-03-16 15:00,Phone,Class Registration,2.2,N/A,5
+TKT-5632,2026-05-15 13:00,Instagram DM,Late Fee Dispute,21.8,No,2
+TKT-5633,2026-03-29 15:00,Phone,Late Fee Dispute,1.4,Yes,2
+TKT-5634,2026-02-12 14:00,Email,Gear Recommendation,37.3,N/A,
+TKT-5635,2026-02-27 10:00,Phone,Class Registration,2.6,N/A,
+TKT-5636,2026-01-06 17:00,Email,Class Registration,4.6,N/A,1
+TKT-5637,2026-04-04 18:00,Phone,Repair Status,0.5,N/A,4
+TKT-5638,2026-06-13 12:00,Email,Gear Recommendation,18.3,N/A,5
+TKT-5639,2026-01-13 17:00,Email,Rental Availability,2.7,N/A,1
+TKT-5640,2026-06-17 08:00,Phone,Rental Availability,2.8,N/A,
+TKT-5641,2026-01-30 14:00,Email,Gear Recommendation,23.8,N/A,1
+TKT-5642,2026-05-21 12:00,Phone,Class Registration,1.3,N/A,2
+TKT-5643,2026-02-22 18:00,Email,Rental Availability,18.1,N/A,3
+TKT-5644,2026-04-18 18:00,Email,Class Registration,25.6,N/A,
+TKT-5645,2026-05-14 12:00,Phone,Rental Availability,2.2,N/A,2
+TKT-5646,2026-04-18 09:00,Email,Rental Availability,25.2,N/A,5
+TKT-5647,2026-01-31 12:00,Phone,Rental Availability,0.5,N/A,
+TKT-5648,2026-01-28 15:00,Email,Gear Recommendation,16.0,N/A,
+TKT-5649,2026-02-21 12:00,Web Form,Repair Status,3.0,N/A,2
+TKT-5650,2026-04-02 14:00,Email,Rental Availability,32.5,N/A,
+TKT-5651,2026-01-11 16:00,Instagram DM,Rental Availability,24.1,N/A,2
+TKT-5652,2026-06-26 15:00,Email,Class Registration,7.2,N/A,1
+TKT-5653,2026-01-04 18:00,Instagram DM,Class Registration,24.2,N/A,
+TKT-5654,2026-01-29 17:00,Instagram DM,Gear Recommendation,19.3,N/A,2
+TKT-5655,2026-01-24 16:00,Phone,Rental Availability,3.6,N/A,
+TKT-5656,2026-01-26 12:00,Phone,Rental Availability,1.0,N/A,4
+TKT-5657,2026-03-17 12:00,Email,Rental Availability,32.9,N/A,1
+TKT-5658,2026-02-14 08:00,Email,Class Registration,25.3,N/A,3
+TKT-5659,2026-06-23 13:00,Email,Rental Availability,44.9,N/A,1
+TKT-5660,2026-01-25 08:00,Email,Rental Availability,20.6,N/A,
+TKT-5661,2026-02-05 18:00,Email,Rental Availability,29.1,N/A,3
+TKT-5662,2026-04-02 15:00,Email,Late Fee Dispute,7.0,Yes,3
+TKT-5663,2026-01-24 13:00,Email,Rental Availability,31.2,N/A,2
+TKT-5664,2026-01-30 14:00,Email,Repair Status,36.3,N/A,4
+TKT-5665,2026-03-11 14:00,Phone,Late Fee Dispute,4.1,Yes,4
+TKT-5666,2026-04-18 18:00,Phone,Class Registration,2.0,N/A,2
+TKT-5667,2026-01-29 10:00,Phone,Gear Recommendation,0.7,N/A,1
+TKT-5668,2026-02-10 09:00,Phone,Late Fee Dispute,2.3,Yes,5
+TKT-5669,2026-05-04 17:00,Email,Rental Availability,13.0,N/A,2
+TKT-5670,2026-06-06 14:00,Phone,Rental Availability,2.9,N/A,5
+TKT-5671,2026-01-08 18:00,Email,Late Fee Dispute,21.2,Yes,2
+TKT-5672,2026-05-04 15:00,Email,Gear Recommendation,23.5,N/A,
+TKT-5673,2026-04-16 15:00,Phone,Class Registration,1.2,N/A,
+TKT-5674,2026-03-08 18:00,Phone,Rental Availability,3.2,N/A,5
+TKT-5675,2026-05-28 17:00,Instagram DM,Gear Recommendation,25.6,N/A,
+TKT-5676,2026-06-21 13:00,Phone,Rental Availability,1.8,N/A,5
+TKT-5677,2026-01-25 14:00,Email,Gear Recommendation,41.2,N/A,2
+TKT-5678,2026-05-04 13:00,Instagram DM,Late Fee Dispute,21.8,No,4
+TKT-5679,2026-02-08 16:00,Web Form,Rental Availability,1.3,N/A,5
+TKT-5680,2026-01-14 08:00,Email,Gear Recommendation,34.2,N/A,2
+TKT-5681,2026-05-10 15:00,Web Form,Rental Availability,0.5,N/A,2
+TKT-5682,2026-01-20 15:00,Phone,Rental Availability,3.2,N/A,3
+TKT-5683,2026-03-13 08:00,Phone,Repair Status,1.5,N/A,5
+TKT-5684,2026-06-14 14:00,Phone,Rental Availability,1.4,N/A,2
+TKT-5685,2026-01-21 15:00,Email,Rental Availability,9.7,N/A,5
+TKT-5686,2026-04-25 09:00,Email,Late Fee Dispute,34.8,No,4
+TKT-5687,2026-03-22 09:00,Email,Rental Availability,39.3,N/A,1
+TKT-5688,2026-01-27 14:00,Phone,Late Fee Dispute,2.3,Yes,5
+TKT-5689,2026-05-21 08:00,Instagram DM,Class Registration,42.2,N/A,5
+TKT-5690,2026-06-08 18:00,Instagram DM,Gear Recommendation,25.0,N/A,5
+TKT-5691,2026-05-24 11:00,Email,Class Registration,40.9,N/A,4
+TKT-5692,2026-03-29 13:00,Phone,Class Registration,1.6,N/A,2
+TKT-5693,2026-04-27 13:00,Instagram DM,Class Registration,18.2,N/A,5
+TKT-5694,2026-06-03 15:00,Web Form,Gear Recommendation,3.7,N/A,3
+TKT-5695,2026-04-26 09:00,Instagram DM,Class Registration,36.9,N/A,
+TKT-5696,2026-06-18 11:00,Phone,Rental Availability,3.8,N/A,
+TKT-5697,2026-04-01 18:00,Email,Rental Availability,21.4,N/A,3
+TKT-5698,2026-05-21 16:00,Email,Rental Availability,19.6,N/A,1
+TKT-5699,2026-01-12 10:00,Web Form,Late Fee Dispute,0.6,Yes,4
+TKT-5700,2026-01-28 12:00,Email,Class Registration,37.9,N/A,2
+TKT-5701,2026-01-31 14:00,Phone,Gear Recommendation,1.6,N/A,
+TKT-5702,2026-02-18 13:00,Email,Class Registration,25.2,N/A,
+TKT-5703,2026-04-17 08:00,Phone,Rental Availability,1.9,N/A,5
+TKT-5704,2026-02-01 15:00,Email,Rental Availability,11.8,N/A,5
+TKT-5705,2026-05-10 10:00,Phone,Rental Availability,2.7,N/A,1
+TKT-5706,2026-05-16 08:00,Phone,Gear Recommendation,2.7,N/A,4
+TKT-5707,2026-05-30 15:00,Email,Rental Availability,33.1,N/A,2
+TKT-5708,2026-06-27 17:00,Phone,Rental Availability,1.5,N/A,
+TKT-5709,2026-02-02 09:00,Email,Rental Availability,23.2,N/A,5
+TKT-5710,2026-06-05 13:00,Instagram DM,Rental Availability,17.5,N/A,4
+TKT-5711,2026-04-18 17:00,Phone,Rental Availability,2.1,N/A,2
+TKT-5712,2026-03-12 14:00,Instagram DM,Gear Recommendation,32.0,N/A,3
+TKT-5713,2026-04-26 10:00,Web Form,Gear Recommendation,1.7,N/A,
+TKT-5714,2026-06-04 16:00,Instagram DM,Rental Availability,15.5,N/A,
+TKT-5715,2026-06-29 16:00,Email,Repair Status,25.5,N/A,5
+TKT-5716,2026-06-11 11:00,Email,Class Registration,28.4,N/A,
+TKT-5717,2026-06-09 12:00,Web Form,Rental Availability,2.3,N/A,2
+TKT-5718,2026-06-16 10:00,Email,Late Fee Dispute,38.6,Yes,3
+TKT-5719,2026-01-30 13:00,Email,Class Registration,16.8,N/A,5
+TKT-5720,2026-05-27 18:00,Email,Rental Availability,31.5,N/A,5
+TKT-5721,2026-03-15 14:00,Instagram DM,Rental Availability,39.9,N/A,5
+TKT-5722,2026-01-28 08:00,Instagram DM,Class Registration,48.1,N/A,1
+TKT-5723,2026-06-21 08:00,Instagram DM,Class Registration,36.3,N/A,
+TKT-5724,2026-02-11 12:00,Phone,Repair Status,1.6,N/A,2
+TKT-5725,2026-01-16 12:00,Instagram DM,Rental Availability,42.8,N/A,
+TKT-5726,2026-05-19 08:00,Email,Class Registration,28.4,N/A,4
+TKT-5727,2026-01-27 17:00,Email,Repair Status,0.5,N/A,5
+TKT-5728,2026-02-27 18:00,Web Form,Class Registration,2.6,N/A,2
+TKT-5729,2026-05-11 12:00,Phone,Rental Availability,2.9,N/A,1
+TKT-5730,2026-04-08 14:00,Phone,Class Registration,0.9,N/A,3
+TKT-5731,2026-05-22 08:00,Web Form,Rental Availability,3.5,N/A,
+TKT-5732,2026-03-06 11:00,Phone,Class Registration,3.0,N/A,4
+TKT-5733,2026-02-27 18:00,Email,Rental Availability,40.1,N/A,3
+TKT-5734,2026-05-31 16:00,Phone,Class Registration,2.6,N/A,2
+TKT-5735,2026-02-19 12:00,Phone,Class Registration,1.1,N/A,1
+TKT-5736,2026-02-17 10:00,Instagram DM,Rental Availability,42.6,N/A,1
+TKT-5737,2026-04-07 08:00,Instagram DM,Gear Recommendation,34.2,N/A,5
+TKT-5738,2026-03-09 10:00,Web Form,Late Fee Dispute,0.5,Yes,
+TKT-5739,2026-03-07 08:00,Phone,Rental Availability,1.7,N/A,2
+TKT-5740,2026-01-11 10:00,Web Form,Class Registration,0.5,N/A,5
+TKT-5741,2026-01-14 18:00,Email,Rental Availability,37.4,N/A,3
+TKT-5742,2026-05-06 17:00,Phone,Rental Availability,2.9,N/A,1
+TKT-5743,2026-03-23 16:00,Instagram DM,Class Registration,27.1,N/A,
+TKT-5744,2026-02-17 16:00,Email,Gear Recommendation,22.0,N/A,
+TKT-5745,2026-05-10 10:00,Instagram DM,Rental Availability,26.5,N/A,5
+TKT-5746,2026-04-14 09:00,Instagram DM,Repair Status,27.5,N/A,2
+TKT-5747,2026-06-19 13:00,Phone,Gear Recommendation,2.1,N/A,3
+TKT-5748,2026-02-25 17:00,Email,Rental Availability,28.1,N/A,5
+TKT-5749,2026-06-16 08:00,Web Form,Rental Availability,2.3,N/A,
+TKT-5750,2026-03-30 15:00,Email,Rental Availability,16.1,N/A,
+TKT-5751,2026-06-14 17:00,Phone,Rental Availability,1.3,N/A,2
+TKT-5752,2026-01-11 18:00,Email,Rental Availability,3.6,N/A,4
+TKT-5753,2026-01-30 14:00,Instagram DM,Rental Availability,18.4,N/A,
+TKT-5754,2026-03-14 08:00,Email,Rental Availability,19.4,N/A,3
+TKT-5755,2026-05-12 16:00,Email,Class Registration,17.0,N/A,1
+TKT-5756,2026-03-17 18:00,Email,Rental Availability,19.4,N/A,
+TKT-5757,2026-05-12 09:00,Email,Gear Recommendation,28.0,N/A,2
+TKT-5758,2026-05-18 16:00,Email,Rental Availability,1.0,N/A,
+TKT-5759,2026-01-17 11:00,Phone,Gear Recommendation,1.8,N/A,2
+TKT-5760,2026-06-25 14:00,Email,Class Registration,10.0,N/A,2
+TKT-5761,2026-05-18 14:00,Phone,Rental Availability,2.0,N/A,1
+TKT-5762,2026-06-25 10:00,Phone,Rental Availability,0.5,N/A,
+TKT-5763,2026-03-26 08:00,Instagram DM,Rental Availability,19.3,N/A,
+TKT-5764,2026-01-14 10:00,Phone,Late Fee Dispute,2.5,No,5
+TKT-5765,2026-01-19 17:00,Instagram DM,Gear Recommendation,43.7,N/A,3
+TKT-5766,2026-04-15 14:00,Email,Late Fee Dispute,20.7,Yes,4
+TKT-5767,2026-04-21 13:00,Phone,Class Registration,2.8,N/A,
+TKT-5768,2026-06-22 09:00,Phone,Late Fee Dispute,1.6,No,5
+TKT-5769,2026-01-17 17:00,Phone,Rental Availability,3.0,N/A,
+TKT-5770,2026-01-19 13:00,Phone,Gear Recommendation,1.8,N/A,1
+TKT-5771,2026-03-16 18:00,Web Form,Rental Availability,1.7,N/A,1
+TKT-5772,2026-03-14 15:00,Phone,Class Registration,4.2,N/A,1
+TKT-5773,2026-05-02 10:00,Email,Class Registration,22.1,N/A,2
+TKT-5774,2026-04-11 16:00,Email,Class Registration,26.6,N/A,
+TKT-5775,2026-06-12 10:00,Email,Rental Availability,10.8,N/A,
+TKT-5776,2026-06-15 13:00,Email,Rental Availability,17.4,N/A,1
+TKT-5777,2026-05-22 16:00,Web Form,Repair Status,2.8,N/A,
+TKT-5778,2026-01-11 08:00,Phone,Rental Availability,3.2,N/A,4
+TKT-5779,2026-05-18 16:00,Email,Rental Availability,17.8,N/A,3
+TKT-5780,2026-02-23 13:00,Phone,Gear Recommendation,1.5,N/A,
+TKT-5781,2026-06-15 16:00,Phone,Rental Availability,2.5,N/A,
+TKT-5782,2026-02-17 11:00,Email,Gear Recommendation,13.9,N/A,3
+TKT-5783,2026-02-19 09:00,Email,Gear Recommendation,13.4,N/A,
+TKT-5784,2026-05-26 08:00,Instagram DM,Class Registration,16.4,N/A,5
+TKT-5785,2026-04-29 18:00,Phone,Rental Availability,2.5,N/A,3
+TKT-5786,2026-06-21 09:00,Email,Late Fee Dispute,12.8,Yes,
+TKT-5787,2026-02-20 17:00,Web Form,Late Fee Dispute,1.3,Yes,3
+TKT-5788,2026-04-02 10:00,Instagram DM,Rental Availability,0.5,N/A,2
+TKT-5789,2026-01-26 12:00,Phone,Repair Status,1.5,N/A,2
+TKT-5790,2026-03-23 15:00,Instagram DM,Rental Availability,19.4,N/A,5
+TKT-5791,2026-06-18 12:00,Email,Rental Availability,28.6,N/A,2
+TKT-5792,2026-05-25 17:00,Email,Late Fee Dispute,33.2,Yes,3
+TKT-5793,2026-04-20 10:00,Phone,Rental Availability,2.2,N/A,
+TKT-5794,2026-03-05 11:00,Email,Class Registration,38.4,N/A,4
+TKT-5795,2026-03-12 13:00,Email,Rental Availability,21.4,N/A,
+TKT-5796,2026-03-26 15:00,Phone,Rental Availability,2.2,N/A,3
+TKT-5797,2026-03-20 15:00,Email,Rental Availability,13.3,N/A,2
+TKT-5798,2026-06-15 17:00,Email,Gear Recommendation,41.1,N/A,
+TKT-5799,2026-03-13 10:00,Email,Gear Recommendation,16.6,N/A,2
